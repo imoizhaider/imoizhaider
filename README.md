@@ -51,8 +51,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiz-haider11&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
 
 ### 🔥 Contribution Streak & Activity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-haider11&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=moiz-haider11&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-haider11&theme=radical&hide_border=true" alt="GitHub Streak"/> -->
 
 ### 📊 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=moiz-haider11&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D9FF" alt="Activity Graph"/>
