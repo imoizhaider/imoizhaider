@@ -20,7 +20,7 @@
   🧑‍💻 Enthusiast Web Developer with a passion for creating innovative web solutions.
 
 **Let's connect and build something amazing together:**
-- 🔗 [Portfolio](https://portfolio-five-beryl-16.vercel.app/)
+- 🔗 [Portfolio](https://moizhaider.vercel.app/)
 - 📧 [moizhaiderwasi@gmail.com](mailto:moizhaiderwasi@gmail.com)  
 - 🔗 [linkedin.com/in/moiz-haider-990584300/](https://linkedin.com/in/moiz-haider-990584300/)
 - 💬 Always open to interesting conversations and collaboration opportunities!
@@ -46,20 +46,20 @@
 <div align="center">
 
 ### 📈 Overall Stats
-<img src="https://github-readme-stats.vercel.app/api?username=moiz-haider11&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imoizhaider&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
 
 ### 🌟 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiz-haider11&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imoizhaider&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
 
 ### 🔥 Contribution Streak & Activity
-<img src="https://streak-stats.demolab.com?user=moiz-haider11&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=imoizhaider&theme=radical&hide_border=true" alt="GitHub Streak" />
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=moiz-haider11&theme=radical&hide_border=true" alt="GitHub Streak"/> -->
 
 ### 📊 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moiz-haider11&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D9FF" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imoizhaider&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&area_color=00D9FF" alt="Activity Graph"/>
 
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=moiz-haider11&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=imoizhaider&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 
 </div>
 
@@ -67,15 +67,15 @@
 
 ## 🚀 Featured Projects
 
-#### 🔹 [Parvaaz](https://github.com/moiz-haider11/Parvaaz)
+#### 🔹 [Parvaaz](https://github.com/imoizhaider/Parvaaz)
 🛫 A flight booking platform allowing users to compare and book flights from various airlines. Users can log in/register, add passport/visa details, and get matched with budget-friendly options.
 
-#### 🔹 [8-queens problem](https://github.com/moiz-haider11/AI-CEP-8Queens-problem)
+#### 🔹 [8-queens problem](https://github.com/imoizhaider/AI-CEP-8Queens-problem)
 N-Queens Problem Solver using AI techniques.
 Implements Hill-Climbing with Random Restarts and CSP Backtracking (MRV + Forward Checking).
 Supports generalized N, conflict visualization, and performance comparison between algorithms.
 
-#### 🔹 [My Bindle app](https://github.com/moiz-haider11/My-Bindle-app)
+#### 🔹 [My Bindle app](https://github.com/imoizhaider/My-Bindle-app)
 A modern, responsive landing page for MyBindle built with React and Tailwind CSS, featuring smooth GSAP animations and interactive UI elements.
 
 ---
@@ -103,16 +103,16 @@ A modern, responsive landing page for MyBindle built with React and Tailwind CSS
 <div align="center">
 
 ### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/00D9FF/moiz-haider11" alt="GitHub Contribution Calendar" />
+<img src="https://ghchart.rshah.org/00D9FF/imoizhaider" alt="GitHub Contribution Calendar" />
 
 ### 🎯 Recent Repository Activity
-<img src="https://github-readme-stats.vercel.app/api?username=moiz-haider11&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=Recent+Development+Activity" alt="Recent Development Activity"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imoizhaider&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=Recent+Development+Activity" alt="Recent Development Activity"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=moiz-haider11&style=for-the-badge&color=brightgreen" alt="Profile Visits" />
+  <img src="https://komarev.com/ghpvc/?username=imoizhaider&style=for-the-badge&color=brightgreen" alt="Profile Visits" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="3">
 
