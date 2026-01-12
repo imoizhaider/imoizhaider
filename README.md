@@ -20,7 +20,7 @@
   🧑‍💻 Enthusiast Web Developer with a passion for creating innovative web solutions.
 
 **Let's connect and build something amazing together:**
-- 🔗 [moizhaider.vercel.app](https://moizhaider.vercel.app/)]
+- 🔗 [moizhaider.me](https://moizhaider.me/)
 - 📧 [moizhaiderwasi@gmail.com](mailto:moizhaiderwasi@gmail.com)  
 - 🔗 [linkedin.com/in/moiz-haider-990584300/](https://linkedin.com/in/moiz-haider-990584300/)
 - 💬 Always open to interesting conversations and collaboration opportunities!
