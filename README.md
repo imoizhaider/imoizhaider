@@ -91,7 +91,7 @@ A modern, responsive landing page for MyBindle built with React and Tailwind CSS
 
 ### 📅 2025 Goals
 - [ ] 🏆 Contribute to major open-source projects
-- [ ] 🌐 Launch my personal portfolio website
+- [ ] 🌐 deep dive into the journey of AI/ML
 - [ ] 🤝 Mentor aspiring developers
 
 </div>
