@@ -87,7 +87,7 @@ A modern, responsive landing page for MyBindle built with React and Tailwind CSS
 ### 🌱 What I'm Currently Learning
 - 🔐 Backend development
 - 📱 AI/ML using modern techniques
-- 🚀 Modern JavaScript Frameworks
+- 🚀 Modern JavaScript Framework
 
 ### 📅 2025 Goals
 - [ ] 🏆 Contribute to major open-source projects
